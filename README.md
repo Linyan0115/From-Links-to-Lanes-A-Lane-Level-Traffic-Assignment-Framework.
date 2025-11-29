@@ -43,7 +43,7 @@ The model is validated against microscopic SUMO simulations and real-world Sioux
 <img width="812" height="457" alt="Screenshot 2025-11-29 at 4 13 59 AM" src="https://github.com/user-attachments/assets/34c73037-ce29-4357-bfaa-c5015cb348e9" />
 
 ## Abstract Paper
-[Click to view the Abstract Paper](paper/Abstract%20Paper.pdf)
+[Abstract Paper.pdf](Abstract%20Paper.pdf)
 
 
 
